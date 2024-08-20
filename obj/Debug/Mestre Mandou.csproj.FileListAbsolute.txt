@@ -1,0 +1,21 @@
+Z:\NatanMendesAlcantara\VisualS\Mestre Mandou\bin\Debug\Mestre Mandou.exe.config
+Z:\NatanMendesAlcantara\VisualS\Mestre Mandou\bin\Debug\Mestre Mandou.exe
+Z:\NatanMendesAlcantara\VisualS\Mestre Mandou\bin\Debug\Mestre Mandou.pdb
+Z:\NatanMendesAlcantara\VisualS\Mestre Mandou\obj\Debug\Mestre Mandou.csprojAssemblyReference.cache
+Z:\NatanMendesAlcantara\VisualS\Mestre Mandou\obj\Debug\Mestre_Mandou.Form1.resources
+Z:\NatanMendesAlcantara\VisualS\Mestre Mandou\obj\Debug\Mestre_Mandou.Properties.Resources.resources
+Z:\NatanMendesAlcantara\VisualS\Mestre Mandou\obj\Debug\Mestre Mandou.csproj.GenerateResource.cache
+Z:\NatanMendesAlcantara\VisualS\Mestre Mandou\obj\Debug\Mestre Mandou.csproj.CoreCompileInputs.cache
+Z:\NatanMendesAlcantara\VisualS\Mestre Mandou\obj\Debug\Mestre Mandou.exe
+Z:\NatanMendesAlcantara\VisualS\Mestre Mandou\obj\Debug\Mestre Mandou.pdb
+Y:\Genius\Mestre Mandou\bin\Debug\Mestre Mandou.exe.config
+Y:\Genius\Mestre Mandou\bin\Debug\Mestre Mandou.exe
+Y:\Genius\Mestre Mandou\bin\Debug\Mestre Mandou.pdb
+Y:\Genius\Mestre Mandou\obj\Debug\Mestre Mandou.csproj.AssemblyReference.cache
+Y:\Genius\Mestre Mandou\obj\Debug\Mestre Mandou.csproj.SuggestedBindingRedirects.cache
+Y:\Genius\Mestre Mandou\obj\Debug\Mestre_Mandou.Form1.resources
+Y:\Genius\Mestre Mandou\obj\Debug\Mestre_Mandou.Properties.Resources.resources
+Y:\Genius\Mestre Mandou\obj\Debug\Mestre Mandou.csproj.GenerateResource.cache
+Y:\Genius\Mestre Mandou\obj\Debug\Mestre Mandou.csproj.CoreCompileInputs.cache
+Y:\Genius\Mestre Mandou\obj\Debug\Mestre Mandou.exe
+Y:\Genius\Mestre Mandou\obj\Debug\Mestre Mandou.pdb
